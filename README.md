@@ -4,13 +4,12 @@ Welcome to **Zen Browser’s Documentation!**
 
 ## Contributing
 
-This site is built with [Quartz 4.0](https://quartz.jzhao.xyz/). Site content is written in Markdown format located in `content`. 
+This site is built with [vitepress](https://vitepress.dev/). Site content is written in Markdown format located in `src`. 
 If you would like to contribute see: [Getting Started with Documentation Contributions](https://docs.zen-browser.app/contribute/docs)
 
-For local preivew:
+For local development:
 
 ```bash
-npm i
-# for preview
-npm run docs
+pnpm run install
+pnpm run docs:dev
 ```
