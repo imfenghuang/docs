@@ -1,4 +1,2 @@
-/node_modules
-.idea
-public/
-quartz/.quartz-cache
+node_modules
+src/.vitepress/dist
